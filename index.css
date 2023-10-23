@@ -1,0 +1,22 @@
+#heading {
+    color: brown;
+}
+
+.fontcolor {
+    font-weight: 400;
+}
+
+.childborder {
+    border: 10px red solid;
+    padding: 1px;
+}
+
+.headingdborder {
+    border: 6px rgb(202, 174, 13) solid;
+    padding: 1px;
+}
+
+.parentborder {
+    border: 16px rgb(3, 87, 38) solid;
+    padding: 1px;
+}
